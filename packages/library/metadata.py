@@ -14,8 +14,8 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 
 
 # Base metadata. MUST BE EDITED.
-BASE_IMAGE_URL = "ipfs://<-- Your CID Code-->"
-BASE_NAME = ""
+BASE_IMAGE_URL = "ipfs://Qmb7fFSoVNTmJrJDtVFHt2yK2VYBVxHCUf22zRSwj3zD4h"
+BASE_NAME = "First collection of NFTs by @Masuda Yosuke #"
 
 BASE_JSON = {
     "name": BASE_NAME,
